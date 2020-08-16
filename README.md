@@ -17,10 +17,10 @@ SESSION OR NON-PERSISTENT COOKIE:
 PERSISTENT COOKIE:
 •	The other type of cookie is the persistent cookies that are stored in text files on a user’s computer. This type of cookie is useful when you need to store information for a longtime.
 •	Persistent cookies are created for the duration, which is set in the cookie file.
-DIFFERENCE BETWEEN COOKIES AND SESSION
+DIFFERENCE BETWEEN COOKIES AND SESSION.
 COOKIES
-1. Cookies are used for client side state management.
-2. It means cookies are stored in the client machine browser.
+•	Cookies are used for client side state management.
+•	It means cookies are stored in the client machine browser.
 SESSION
-1. Sessions are used for server side state management.
-2. It means sessions are stored in the server machine.
+•	Sessions are used for server side state management.
+•	It means sessions are stored in the server machine.
